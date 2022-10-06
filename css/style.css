@@ -1,0 +1,78 @@
+.container-fluid{
+  margin-top: 20px;
+  
+}
+
+
+.btn-outline-success{
+
+  margin-left: 20px;
+}
+
+.form{
+  border-radius: 5px;
+  border-style: none;
+}
+#cont{
+  padding: 8px;
+  
+}
+
+.row{
+  background-color: rgb(0, 250, 8);
+  
+}
+
+#helping{
+  margin-left: 50px;
+  margin-top: 50px;
+  font-family: cursive;
+  text-transform: capitalize;
+}
+
+
+
+#life{
+  margin-left: 60px;
+  margin-top: 10px;
+  font-family: monospace;
+}
+
+#singer{
+  margin-left: 60px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h6{
+  margin-left: 50px;
+  font-family: cursive;
+}
+
+#subheading{
+  margin-top: 50px;
+  margin-left: 80px;
+  text-transform: uppercase;
+  font-family: fantasy;
+}
+
+#pet{
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: cursive;
+  text-align: center;
+  margin-top: 100px;
+  color: rgb(24, 141, 0);
+  
+}
+
+.images{
+  display: flex;
+
+}
+
+#img{
+  width: 350px;
+  margin-top: 50px;
+  margin-left: 20px;
+  border-radius: -100px;
+}
