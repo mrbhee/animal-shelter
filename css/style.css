@@ -113,6 +113,59 @@ h6{
   cursor: pointer;
 }
 
-.dollars{
+.container{
   display: flex;
+}
+
+.rice{
+  margin-top: 200px;
+}
+
+.dollars{
+  margin-top: 230px;
+
+
+}
+
+#p1{
+  font-size: 50px;
+  font-weight: bolder;
+  font-family: cursive;
+  color: greenyellow;
+  margin-left: 50px;
+}
+
+#p2{
+  font-size: 25px;
+  font-weight: lighter;
+  font-family: cursive;
+  color: greenyellow;
+  margin-left: 50px;
+}
+
+#p3{
+  font-size: 30px;
+  font-weight: bold;
+  text-transform: lowercase;
+  color: rgb(235, 245, 231);
+  margin-left:50px ;
+  padding-top: 20px;
+}
+
+.fa-solid{
+  margin-left: 50px;
+  width: 100px;
+  margin-top: 50px;
+}
+
+
+.mile12{
+  font-size: larger;
+  background-color: rgb(98, 248, 143);
+  margin-left: 50px;
+}
+
+.mile12:hover{
+  cursor: pointer;
+  background-color: green;
 }
