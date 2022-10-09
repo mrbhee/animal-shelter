@@ -14,12 +14,12 @@
   border-style: none;
 }
 #cont{
-  padding: 8px;
+  margin-left: 100px;
   
 }
 
 .row{
-  background-color: rgb(0, 250, 8);
+  /* background-color: rgb(0, 250, 8); */
   
 }
 
@@ -29,6 +29,15 @@
   font-family: cursive;
   text-transform: capitalize;
 }
+
+.card{
+  margin-top: 40px;
+}
+.card-img-top{
+  
+}
+
+
 
 
 
@@ -50,7 +59,7 @@ h6{
 
 #subheading{
   margin-top: 50px;
-  margin-left: 80px;
+  text-align: center;
   text-transform: uppercase;
   font-family: fantasy;
 }
@@ -169,3 +178,107 @@ h6{
   cursor: pointer;
   background-color: green;
 }
+
+.shadow{
+  display:flex;
+  margin-top: 100px;
+  
+}
+#dog{
+  width: 650px;
+}
+
+#cat{
+  width: 580px;
+}
+.animals{
+  margin-left: 70px;
+  padding-top: 100px;
+
+}
+
+#give-up{
+  font-size: 40px;
+  font-weight: bolder;
+  padding-left: 10px;
+  padding-top: 8px;
+}
+
+#longer{
+  font-size: 20px;
+  font-weight: normal;
+  padding-top: 5px;
+  padding-left: 10px;
+
+}
+
+.bam{
+  background-color: rgb(100, 238, 102);
+}
+.bam:hover{
+  background-color: green;
+  cursor: pointer;
+}
+
+.font{
+  display: flex;
+  margin-top: 200px;
+  
+}
+.finnish{
+  
+}
+
+.fried{
+  margin-left: 80px;
+}
+
+.nini{
+  margin-left: 70px;
+  margin-top: px;
+}
+.ps{
+  
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-top: 50px;
+}
+
+#subhead{
+font-family: cursive;
+
+
+}
+
+#soap{
+  
+  font-size: 20px; padding: 5px; font-weight: bold; color: aquamarine; border-radius: 20px;
+}
+
+#soap:hover{
+  text-decoration: none;
+  cursor: pointer;
+  color: blue;
+}
+
+#fool{
+  font-size: 30px;
+  margin-top: 30px;
+}
+.fa-brands{
+  margin-top: 12px;
+
+  width: 40px;
+}
+
+.ps:hover{
+  cursor: pointer;
+  color: rgb(48, 48, 255);
+  font-weight: bolder;
+  text-decoration: underline;
+}
+
+
+
+
+
