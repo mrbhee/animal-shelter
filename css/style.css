@@ -371,6 +371,8 @@ h6{
 font-family: cursive;
 
 
+
+
 }
 
 #soap{
@@ -408,6 +410,147 @@ font-family: cursive;
 }
 
 
+
+.inter{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,  url(../image/finding\ the\ right\ cat\ for\ you.jpg);
+  width:100%;
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: 100px;
+}
+
+#lit{
+  padding-top: 200px;
+  text-align: center;
+  font-size: 80px;
+  color: greenyellow;
+  font-weight: bolder;
+}
+
+#st{
+  font-size: 20px;
+  font-weight:lighter;
+  font-family: cursive;
+  margin-top: 50px;
+  margin-left: 150px;
+  color: blue;
+
+}
+
+#ikd{
+  margin-left: 150px;
+  text-transform: capitalize;
+  margin-top: 50px;
+  color: rgb(121, 121, 219);
+
+}
+
+#pb{
+  margin-left: 150px;
+  font-size: medium;
+  margin-top: 30px;
+  color: rgb(137, 137, 192);
+
+}
+
+.dropdown-item:hover{
+  cursor: pointer;
+}
+
+#mr{
+  font-size: 150px;
+  margin-top: 40px;
+  text-align: center;
+  background-color: rgb(19, 62, 142);
+  color: aliceblue;
+  font-weight: bolder;
+  text-transform: capitalize;
+  
+  
+}
+
+.me{
+  font-size: 20px;
+  color: rgb(97, 97, 246);
+  margin-top: 50px;
+  margin-left: 120px;
+}
+
+#de{
+  width: 900px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+
+.fear{
+  display: flex;
+}
+
+.vet{
+  margin-left: 30px;
+  margin-top: 30px;
+  background-color: greenyellow;
+  padding-left: 30px;
+  padding-top: 20px;
+  /* padding-bottom: 50px; */
+}
+
+.lag{
+  margin-top:2px;
+}
+
+#cap{
+  font-size: 30px;
+  font-weight: bolder;
+  padding: 20px;
+  background-color:aliceblue;
+  color: blue;
+}
+
+.uu{
+  margin-top: 13px;
+
+}
+
+#coke{
+  margin-left:3px;
+  padding: 20px;
+  font-size: 20px;
+}
+
+#yo{
+  font-size: 20px;
+  margin-top: 10px;
+  color: rgb(105, 105, 181);
+}
+
+#win{
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 30px;
+  padding: 20px;
+}
+
+#cap:hover{
+  cursor: pointer;
+  background-color: rgb(0, 0, 199);
+  color: aliceblue;
+  font-family: fantasy;
+}
+
+#coke:hover{
+  cursor: pointer;
+  background-color: rgb(0, 0, 199);color: aliceblue;
+}
+
+#win:hover{
+  cursor: pointer;
+  background-color: rgb(0, 0, 199);
+  color: aliceblue;
+  
+
+}
 
 
 
