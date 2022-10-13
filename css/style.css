@@ -551,6 +551,65 @@ font-family: cursive;
   
 
 }
+.dropdown-item:hover{
+  cursor: pointer;
+
+}
 
 
+.oh{
+  background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)) ,  url(../image/female-fundraiser-with-dog-and-laptop.jpg);
+  width:100%;
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top:50px;
+  
+}
+
+#soso{
+  font-size: 40px;
+  font-weight: bolder;
+  text-align: center;
+  text-transform: capitalize;
+  padding-top: 220px;
+  color: greenyellow;
+  font-family: cursive;
+}
+
+
+#sir{
+  font-size: 20px;
+  font-weight: lighter;
+  text-align: center;
+  color: greenyellow;
+  font-family: sans-serif;
+
+}
+
+#big{
+  font-size: 25px;
+  font-weight: lighter;
+  font-family: sans-serif;
+  color: greenyellow;
+  text-align: center;
+}
+ .pp{
+  font-size: 20px;
+  font-weight: lighter;
+  margin-top: 40px;
+  margin-left: 40px;
+ }
+
+ #bre{
+  font-size: 40px;
+  font-weight:lighter;
+  margin-top: 100px;
+  margin-left: 400px;
+  color: greenyellow;
+  font-family: sans-serif;
+  text-transform: capitalize;
+
+
+ }
 
