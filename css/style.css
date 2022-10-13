@@ -345,7 +345,9 @@ h6{
 
 .font{
   display: flex;
-  margin-top: 200px;
+  margin-top: 100px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   
 }
 .finnish{
@@ -611,5 +613,63 @@ font-family: cursive;
   text-transform: capitalize;
 
 
+ }.pin{
+  background-color: black;
  }
+
+ #vi{
+  font-size: 20px;
+  font-weight: normal;
+  font-family: sans-serif;
+  background-color: rgb(0, 1, 1);
+  color: greenyellow;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 20px;
+ }
+
+ .mitt{
+  font-size: 20px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  padding: 10px;
+  border-radius: 10px;
+  color: yellowgreen;
+ }
+
+ .font{
+  box-shadow: 5px 5px 10px 10px;
+  border-radius: 10px;
+  border-style: hidden;
+  
+
+  
+ }
+
+ .rice{
+  box-shadow:5px 8px 5px 8px;
+  border-style:none;
+  border-width: 20px;
+  border-radius: 10px;
+  
+ }
+ 
+#re{
+  font-size: 50px;
+  font-weight: bolder;
+  font-family: sans-serif;
+  text-align: center;
+  color: greenyellow;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  text-transform: uppercase;
+  
+
+}
+
+.do{
+  background-color:rgb(0, 166, 255);
+  margin-top: 30px;
+  
+}
 
