@@ -690,8 +690,8 @@ font-family: cursive;
 }
 
 .spon{
-  background-color:black;
-  color:yellow;
+  background-color:rgb(89, 89, 224);
+  color:rgb(83, 83, 69);
 }
 
 #kay{
@@ -715,14 +715,14 @@ font-family: cursive;
 .ot{
   display: flex;
   margin-top: 100px;
-  margin-left: 60px;
+  margin-left: 40px;
 }
 .gr{
   margin-left: 30px;
 }
 .vv{
-  background-color: black;
-  color: yellow;
+  background-color:rgb(104, 104, 236);
+  color: rgb(51, 51, 42);
 }
 
 #if{
@@ -735,4 +735,173 @@ font-family: cursive;
   font-size: medium;
   font-family: cursive;
   padding-left: 20px; padding-bottom: 30px;
+}
+
+.eba{
+  margin-top: 120px;
+  margin-left:20px;
+
+}
+
+.lol{
+  margin-top: 190px;
+  margin-left: 50px;
+}
+
+
+#twenty{
+  font-size: 40px;
+  font-weight: bolder;
+  font-family: cursive;
+  color: rgb(81, 81, 62);
+  
+}
+
+#thirty{
+  font-size: 20px;
+  font-weight: normal;
+  font-family: sans-serif;
+  margin-top: 10px;
+  color: rgb(80, 80, 64);
+}
+
+#fifty{
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: sans-serif;
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-left: 20px;
+
+}
+
+.oshodi{
+  background-color:rgb(102, 102, 239);
+  color:rgb(99, 99, 71);
+}
+.eba{
+  display: flex;
+}
+
+#trigga{
+  width: 800px;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+
+#trigga:hover{
+  cursor: pointer;
+  box-shadow: 5px 10px 5px 10px;
+
+}
+#yawa{
+  font-size: 40px;
+  font-weight: bold;
+  font-family: sans-serif;
+  margin-top: 100px;
+  text-align: center;
+  text-transform: lowercase;
+  color: rgb(148, 149, 116);
+}
+
+.corner{
+  display:flex;
+  background-color:rgb(200, 200, 249);
+}
+
+.nike{
+  margin-left: 20px;
+  margin-top: 100px;
+  color: rgb(116, 116, 98);
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.kilome{
+  margin-top: 10px;
+  background-color: rgb(236, 236, 239);
+  
+}
+
+#buju{
+  font-size: 20px;
+  font-weight: bolder;
+  font-family: cursive;
+  padding-top: 20px;
+  padding-left: 10px;
+}
+#shisha{
+  font-weight: normal;
+  font-size: 16px;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-left:3px;
+}
+
+#zino{
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: cursive;
+  text-align: center;
+  text-transform: lowercase;
+  margin-top: 50px;
+  color: rgb(110, 110, 224);
+  
+}
+#GOD{
+  font-size: 20px;
+  margin-top: 10px;
+  font-weight: normal;
+  text-align: center;
+  color: rgb(156, 156, 235);
+}
+
+#angel{
+  font-size: 20px;
+  font-size: normal;
+  text-align: center;
+  color: rgb(160, 160, 247);
+}
+
+.ekiti{
+  display: flex;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+
+#adebayo{
+  font-size: 30px;
+  font-weight: bolder;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-transform: lowercase;
+  color: blue;
+}
+
+
+.aramoko{
+  margin-left: 30px;
+}
+
+.stans{
+  font-size: 20px;
+  font-weight: bolder;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: greenyellow;
+}
+
+#mee{
+  padding-top: 30px;
+  padding-bottom: 60px;
+  padding-left: 20px;
+}
+#juc{
+  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-left: 20px;
+}
+#kun{
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 15px;
 }
