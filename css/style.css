@@ -905,3 +905,44 @@ font-family: cursive;
   padding-left: 20px;
   padding-bottom: 15px;
 }
+
+.glucose{
+  display: flex;
+  margin-left: 150px;
+  margin-top: 100px;
+
+}
+
+#mmm{
+  height: 500px;
+}
+
+.mat{
+
+  padding-left:20px;
+}
+
+#meat{
+  font-size: 30px;
+  font-weight: bolder;
+  color: blue;
+  text-transform: lowercase;
+
+}
+#ccc{
+  font-size: 30px;
+  font-weight: bolder;
+  color: black;
+  background-color: rgb(144, 144, 242);
+  margin-top: 10px;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  padding-left: 20px;
+}
+
+
+.soso{
+  display: flex;
+  margin-left: 300px;
+}
+
