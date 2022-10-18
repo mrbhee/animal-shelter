@@ -18,8 +18,8 @@ _{it all about animals without a home to stay so we provide a better home for th
 ## Setup/Installation Requirements
 
 * _clone these repository to your desktop_
-* _navigate to top directory_
-* _open index.html_
+* _navigate to animal shelter directory_
+* _click on index  to open the app_
 
 
 ## Known Bugs
